@@ -1,8 +1,8 @@
-# Data Science Final Project: Twitter Sentiment Analysis of ChatGPT Discussions
+# Data Science Final Project: Twitter Sentiment Analysis of AI Topics Discussions
 
 ## Project Overview
 
-This project performs a comprehensive sentiment analysis on tweets related to ChatGPT and AI topics. Using a Kaggle dataset, we explored user opinions, extracted topics, analyzed trends across geography, time, and user groups, and performed clustering and topic modeling on the data.
+This project performs a comprehensive sentiment analysis on tweets related to AI topics. Using a Kaggle dataset, we explored user opinions, extracted topics, analyzed trends across geography, time, and user groups, and performed clustering and topic modeling on the data.
 
 ---
 
